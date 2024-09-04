@@ -1,1 +1,1 @@
-# first_repository
+# CodinGame Puzzle Solutions
